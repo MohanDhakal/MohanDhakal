@@ -10,4 +10,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about flutter and android developement
 - 📫 How to reach me: on Twitter 
 - 😄 Pronouns:mohan
-- ⚡ Fun fact:not yet
+- ⚡ Fun fact:Leonel messi just reached 20+ (Goals and Assist this season)
