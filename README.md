@@ -10,4 +10,4 @@ Here are some things to know about me:
 - 💬 Ask me about flutter and android developement
 - 📫 How to reach me: on Twitter 
 - 😄 Pronouns: mohan
-- ⚡ Fun fact: Leonel Messi just reached 20+ (Goals and Assist this season)
+- ⚡ Fun fact: Liverpool just humiliated with 7-2 against Aston Villa in EPL and Man Utd gave them a support with 6-1 defeat against hotspur the same day!! lol
