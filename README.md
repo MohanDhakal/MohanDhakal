@@ -3,11 +3,11 @@
 
 Here are some things to know about me:
 
-- 🔭 I’m currently working on swasthayapala which you can find here on github
-- 🌱 I’m currently learning Flutter and Laravel 
-- 👯 I’ve just released Dart Programming series with collab from my friend Poshan Pandey
-- 🤔 I’m looking for help with health and general nutrition
-- 💬 Ask me about flutter and android developement
-- 📫 How to reach me: on Facebook as Mohan Dhakal 
-- 😄 Pronouns: mohan
-- ⚡ Fun fact: Liverpool humiliated with 7-2 defeat against Aston Villa in EPL and Man Utd gave them good support with 6-1 defeat against hotspur the same day!! lol
+- 🔭 I’m currently working on [swasthayapala](http://beta.swasthyapala.com/) which you can find here on github
+- 🌱 I’m concurretly working on Flutter and Laravel 
+- 👯 Checkout [Epoch Programmers](https://www.youtube.com/channel/UCi1sn5GT1b-7NLPzarNK6zQ)on youtube for Dart Programming videos.
+- 🤔 I’m looking for help writing articles for swasthyapala,help if you can.
+- 💬 Ask me about flutter,laravel,nutrition,meditation
+- 📫 How to reach me: mail me at: mohan@swasthyapala.com 
+- 😄 Pronouns: a human being
+- ⚡ Fun fact:I hope you know you are dealing with the most boring person on earth
