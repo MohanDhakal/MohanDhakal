@@ -2,7 +2,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=MohanDhakal.MohanDhakal)
 
-I am a software engineer currently working as a Mobile App Developer, I also do backend with laravel and also love to explore new technologies. If you have a startup based on Health and Fitness category, I would love to be the part of it.
+I am a software engineer currently working as a Mobile App Developer, I do backend as well with laravel and also love to explore new technologies. If you have a startup based on Health and Fitness, I would love to be the part of it.
 
 ## My Tech Stack:
 
@@ -36,7 +36,7 @@ I am a software engineer currently working as a Mobile App Developer, I also do 
 - 👨🏻‍💻 I’m currently focused on improving my productivity on developement tasks;
 - 🚀 I’m currently learning and searching best practices to implement any projects in a more matured and maintainable manner;
 - 🌱 I'm currently learning personal finance.
-- 💬 Let's discuss about mobile developement, Health and Fitness, and Investment. I am happy to give and take;
+- 💬 Let's discuss about mobile developement, Health and Fitness, and Personal Finance. I am happy to give and take;
 
 <br/>
 <br/>
